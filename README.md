@@ -1,7 +1,7 @@
 # Hello, I'm Piery! 👋
 
 ## About Me
-- Full-time student pursuing BSc Knowledge and Information Systems at the University of Pretoria (Graduated in 2021)
+- Full-time student pursuing BSc Knowledge and Information Systems at the University of Pretoria 
 - Currently exploring penetration testing and ethical hacking
 - Actively seeking internships, job opportunities, and certifications
 
