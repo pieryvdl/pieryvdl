@@ -22,3 +22,6 @@ I envision a world where people and technology seamlessly coexist, prioritizing 
 - [LinkedIn](https://www.linkedin.com/in/piery-van-der-linde-6687121b8/)
 - [Email](pieryvanderlinde@gmail.com)
 
+## Badges
+
+![React](https://readmebadge.vercel.app/badges/react.svg) ![HTML](https://readmebadge.vercel.app/badges/html.svg) ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg) ![Supabase](https://readmebadge.vercel.app/badges/supabase.svg)
