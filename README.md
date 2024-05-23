@@ -20,7 +20,7 @@ I envision a world where people and technology seamlessly coexist, prioritizing 
 
 ## Contact Details
 - [LinkedIn](https://www.linkedin.com/in/piery-van-der-linde-6687121b8/)
-- [Email](pieryvanderlinde@gmail.com)
+- Email : pieryvanderlinde@gmail.com
 
 ## Badges
 
