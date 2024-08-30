@@ -2,7 +2,7 @@
 
 ## About Me
 - Full-time student pursuing BSc Knowledge and Information Systems at the University of Pretoria 
-- Currently exploring penetration testing and ethical hacking
+- Currently working towards becoming a better software engineer
 - Actively seeking internships, job opportunities, and certifications
 
 ## Interests
