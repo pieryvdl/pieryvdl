@@ -23,4 +23,4 @@ I envision a world where people and technology seamlessly coexist, prioritizing 
 
 ## Badges
 
-![React](https://readmebadge.vercel.app/badges/react.svg) ![HTML](https://readmebadge.vercel.app/badges/html.svg) ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg) ![Supabase](https://readmebadge.vercel.app/badges/supabase.svg) ![Flutter](https://readmebadge.vercel.app/badges/flutter.svg) ![Dart](https://readmebadge.vercel.app/badges/dart.svg)
+![React](https://readmebadge.vercel.app/badges/react.svg) ![HTML](https://readmebadge.vercel.app/badges/html.svg) ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg) ![Supabase](https://readmebadge.vercel.app/badges/supabase.svg) 
