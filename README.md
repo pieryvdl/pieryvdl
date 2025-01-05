@@ -1,9 +1,8 @@
 # Hello, I'm Piery! 👋
 
 ## About Me
-- Full-time student pursuing BSc Knowledge and Information Systems at the University of Pretoria 
+- Full-time Software Engineer at Entelect!
 - Currently working towards becoming a better software engineer
-- Actively seeking internships, job opportunities, and certifications
 
 ## Interests
 - News related to politics and sports
